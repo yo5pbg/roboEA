@@ -32,7 +32,14 @@
   (MPSSessionName "Adrian")
   (GlobalState
     (FileView
-      (Path "Design Resources"))
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\Adrian\Desktop\Modele SPICE\Lab1bis\lab1.dsn")
+      (Path "Design Resources"
+         "C:\Users\Adrian\Desktop\Modele SPICE\Lab1bis\lab1.dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         "C:\Users\Adrian\Desktop\Modele SPICE\Lab1bis\lab1.dsn" "SCHEMATIC1"
+         "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -43,7 +50,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
-        (Scroll "-265 -2")
+        (Scroll "-412 -2")
         (Zoom "65")
         (Occurrence "/"))
       (Path "C:\USERS\ADRIAN\DESKTOP\MODELE SPICE\LAB1BIS\LAB1.DSN")
